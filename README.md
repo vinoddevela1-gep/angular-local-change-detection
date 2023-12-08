@@ -5,3 +5,5 @@ Open the console. You will see a log statement every time Angular runs the Chang
 You will notice that it regularly checks the `TimeComponent` but not the `ListComponent`.
 
 This is only possible from Angular 17 onwards and is the local change detection.
+
+https://medium.com/ngconf/local-change-detection-in-angular-410d82b38664
